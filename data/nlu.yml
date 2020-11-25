@@ -16,6 +16,10 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - Hiya!
+    - yo
+    - How do you do
+    - 
 
 - intent: goodbye
   examples: |
